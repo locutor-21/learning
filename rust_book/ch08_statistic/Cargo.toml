@@ -1,0 +1,8 @@
+[package]
+name = "ch8_statistic"
+version = "0.1.0"
+authors = ["Pedro <pdcmpa@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
