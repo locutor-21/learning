@@ -1,6 +1,8 @@
 use std::collections::HashMap;
 
-/// Main struct containing a HashMap value.
+/// # Main struct containing a HashMap value.
+/// 
+/// Isto eh um teste
 #[derive(Default)]
 pub struct KvStore {
     map: HashMap<String, String>,
